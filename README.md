@@ -10,3 +10,7 @@
 
 # Iceberge_classifier_classifier
 - keras model for Beginners(0.210 on LB) + EDA + R&D ,with Google Colab
+
+# 2018 Data_Science_Bowl
+- scikit-image의 라벨링으로 구현 : 2018DatScienceBowl_Labeling
+

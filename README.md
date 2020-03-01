@@ -16,6 +16,6 @@
 - U-NET 구조를 활용한 머신러닝으로 구현 : 2018DatScienceBowl_UNET(주석 + colab 환경)
 
 #  	Yolo_v3_ObjectDetection_in_Tensorflow
-- Darknet 53 구조를 사용하고, 미리 학습된 가중치(yolov3.weights 250mb)를 다운 받은 후, 사용하였다. 
+- Darknet 53 구조를 사용하고, 미리 학습된 가중치(yolov3.weights 250mb)를 다운 받은 후, 사용하였습니다. 
 - https://www.kaggle.com/aruchomu/yolo-v3-object-detection-in-tensorflow에서 한글 번역을 추가하였습니다.
-- https://blog.naver.com/skwd123/221831872759 관련 이론 강의 요약 정리하였습니다.
+- https://blog.naver.com/skwd123/221831872759 에 가시면 추가적인 이론을 볼 수 있습니다.
